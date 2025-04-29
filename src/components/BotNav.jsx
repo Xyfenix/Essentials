@@ -3,10 +3,10 @@ import Landing from "./../pages/LandingPage";
 import Product from "./../pages/Product";
 import Modal from "./modal";
 import AddItemModal from "./AddItemModal";
-import homeIcon from "./../Assets/Images/Home.png";
-import productIcon from "./../Assets/Images/Market.png";
-import settingsIcon from "./../Assets/Images/Settings.png";
-import userIcon from "./../Assets/Images/User Boy.png";
+import homeIcon from "./../assets/Images/Home.png";
+import productIcon from "./../assets/Images/Market.png";
+import settingsIcon from "./../assets/Images/Settings.png";
+import userIcon from "./../assets/Images/User Boy.png";
 import { useNavigate } from 'react-router-dom';
 
 export default function BottomNav() {
