@@ -1,0 +1,28 @@
+{
+    "settings": {
+      "title": "Pengaturan",
+      "appearance": {
+        "title": "Tampilan",
+        "darkMode": "Mode Gelap",
+        "lightMode": "Mode Terang"
+      },
+      "language": {
+        "title": "Bahasa",
+        "en": "Inggris",
+        "id": "Indonesia",
+        "zh" : "Mandarin"
+      }
+    },
+    "navigation": {
+      "home": "Beranda",
+      "market": "Pasar",
+      "settings": "Pengaturan",
+      "profile": "Profil"
+    },
+    "dashboard" : {
+      "welcome": "Selamat datang pengguna!",
+      "title": "Apa yang Kamu ingin jual/beli dalam aplikasi kami?",
+      "searchPlaceholder": "Pasta Karbonara",
+      "popularProducts" : "Produk terpopuler"
+    }
+  }

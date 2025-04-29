@@ -1,0 +1,28 @@
+{
+    "settings": {
+      "title": "设定",
+      "appearance": {
+        "title": "外观",
+        "darkMode": "深色模式",
+        "lightMode": "亮模式"
+      },
+      "language": {
+        "title": "语言",
+        "en": "英文",
+        "id": "印尼文",
+        "zh" : "中文"
+      }
+    },
+    "navigation": {
+      "home": "首页",
+      "market": "市场",
+      "settings": "设定",
+      "profile": "个人资料"
+    },
+    "dashboard" : {
+      "welcome": "欢迎用户!",
+      "title": "你今天想买/卖什么？",
+      "searchPlaceholder": "培根奶油意大利面",
+      "popularProducts": "流行的产品"
+    }
+  }

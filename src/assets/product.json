@@ -1,0 +1,174 @@
+{"products": [
+  {
+    "name": "Chocolate Cookies",
+    "price": "Rp20.000",
+    "image": "./../assets/Images/Foods/Chocolate Cookies.jpg",
+    "rating": 4.5,
+    "reviews": 19,
+    "category": "Foods",
+    "mobileNumber": "+6281234567890"
+  },
+  {
+    "name": "Strawberry Cupcakes",
+    "price": "Rp15.000",
+    "image": "./../assets/Images/Foods/Strawberry Cupcakes.jpg",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Foods",
+    "mobileNumber": "+6281234567891"
+  },
+  {
+    "name": "10 Pack Hotwheels",
+    "price": "Rp310.000",
+    "image": "./../assets/Images/Popular/10 Pack Hotwheels.png",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Toys",
+    "mobileNumber": "+6281234567892"
+  },
+  {
+    "name": "Nike Giannis Immortality 4",
+    "price": "Rp1.504.000",
+    "image": "./../assets/Images/Others/Nike shoes 1.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Others",
+    "mobileNumber": "+6281234567893"
+  },
+  {
+    "name": "Lemon Juice",
+    "price": "Rp20.000",
+    "image": "./../assets/Images/Drinks/Lemon Juice.webp",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Drinks",
+    "mobileNumber": "+6281234567894"
+  },
+  {
+    "name": "Organic Juice",
+    "price": "Rp15.000",
+    "image": "./../assets/Images/Drinks/Organic Juice.jpeg",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Drinks",
+    "mobileNumber": "+6281234567895"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": "Rp30.000",
+    "image": "./../assets/Images/Drinks/Hot Chocolate.jpeg",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Drinks",
+    "mobileNumber": "+6281234567896"
+  },
+  {
+    "name": "Caffè Mocha",
+    "price": "Rp45.000",
+    "image": "./../assets/Images/Drinks/Caffè mocha.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Drinks",
+    "mobileNumber": "+6281234567897"
+  },
+  {
+    "name": "UNO Harry Potter",
+    "price": "Rp20.000",
+    "image": "./../assets/Images/Toys/UNO Harry Potter.webp",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Toys",
+    "mobileNumber": "+6281234567898"
+  },
+  {
+    "name": "UNO Pokemon",
+    "price": "Rp20.000",
+    "image": "./../assets/Images/Toys/UNO Pokemon.jpg",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Toys",
+    "mobileNumber": "+6281234567899"
+  },
+  {
+    "name": "Smiski",
+    "price": "Rp300.000",
+    "image": "./../assets/Images/Toys/Smiski.png",
+    "rating": 4.5,
+    "reviews": 18,
+    "category": "Toys",
+    "mobileNumber": "+6281234567900"
+  },
+  {
+    "name": "DIMOO",
+    "price": "Rp250.000",
+    "image": "./../assets/Images/Toys/DIMOO.png",
+    "rating": 4.5,
+    "reviews": 18,
+    "category": "Toys",
+    "mobileNumber": "+6281234567901"
+  },
+  {
+    "name": "Vanilla Cookies",
+    "price": "Rp19.000",
+    "image": "./../assets/Images/Foods/Vanilla Cookies.webp",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Foods",
+    "mobileNumber": "+6281234567902"
+  },
+  {
+    "name": "Mocha Cupcakes",
+    "price": "Rp22.000",
+    "image": "./../assets/Images/Foods/Mocha Cupcakes.jpg",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Foods",
+    "mobileNumber": "+6281234567903"
+  },
+  {
+    "name": "10 Pack Hotwheels Fast & Furious",
+    "price": "Rp310.000",
+    "image": "./../assets/Images/Toys/10 Pack Hotwheels FF.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Toys",
+    "mobileNumber": "+6281234567904"
+  },
+  {
+    "name": "Nike Tiempo Legend 10",
+    "price": "Rp3.569.000",
+    "image": "./../assets/Images/Others/Nike shoes 2.png",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Others",
+    "mobileNumber": "+6281234567905"
+  },
+  {
+    "name": "Cookies",
+    "price": "Rp16.000",
+    "image": "./../assets/Images/Foods/Cookies.jpg",
+    "rating": 4.5,
+    "reviews": 19,
+    "category": "Foods",
+    "mobileNumber": "+6281234567906"
+  },
+  {
+    "name": "Diorama Parkiran",
+    "price": "Rp200.000",
+    "image": "./../assets/Images/Others/Diorama Parkiran.webp",
+    "rating": 4.2,
+    "reviews": 16,
+    "category": "Others",
+    "mobileNumber": "+6281234567907"
+  },
+  {
+    "name": "Air Jordan 4 RM",
+    "price": "Rp999.000",
+    "image": "./../assets/Images/Others/Nike shoes 3.png",
+    "rating": 0,
+    "reviews": 0,
+    "category": "Others",
+    "mobileNumber": "+6281234567908"
+  }
+]
+}

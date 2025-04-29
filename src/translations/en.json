@@ -1,0 +1,28 @@
+{
+    "settings": {
+      "title": "Settings",
+      "appearance": {
+        "title": "Appearance",
+        "darkMode": "Dark Mode",
+        "lightMode": "Light Mode"
+      },
+      "language": {
+        "title": "Language",
+        "en": "English",
+        "id": "Indonesian",
+        "zh" : "Chinese"
+      }
+    },
+    "navigation": {
+      "home": "Home",
+      "market": "Market",
+      "settings": "Settings",
+      "profile": "Profile"
+    },
+    "dashboard" : {
+      "welcome": "Welcome user!",
+      "title": "What do you want to sell/buy today?",
+      "searchPlaceholder": "Pasta Carbonara",
+      "popularProducts" : "Popular products"
+    }
+  }
