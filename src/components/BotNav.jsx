@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Landing from "./../pages/LandingPage";
 import Product from "./../pages/Product";
-import Modal from "./modal";
+import Modal from "./Modal";
 import AddItemModal from "./AddItemModal";
 import homeIcon from "./../assets/Images/Home.png";
 import productIcon from "./../assets/Images/Market.png";
