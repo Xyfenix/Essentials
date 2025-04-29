@@ -138,4 +138,4 @@ const AddItemModal = ({ isOpen, onClose }) => {
   );
 };
 
-export default AddItemModal;
+export default AddItemModal; 
